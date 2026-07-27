@@ -9,11 +9,11 @@ This project demonstrates streaming data from Kafka into Iceberg tables using Fl
 
 ### 1. Docker Containers Running
 `docker ps` output showing Kafka, Zookeeper, Flink, MinIO
-![docker ps](docs/docker-ps.png)
+![docker ps](docker-ps.png)
 
 ### 2. Flink Lib Jars
 Jars folder with Iceberg and Kafka connectors
-![jars](docs/jars.png)
+![jars](jars.png)
 
 ## Tech Stack
 - Apache Flink 1.17.1
