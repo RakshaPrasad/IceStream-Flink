@@ -1,0 +1,4 @@
+type: iceberg
+property-version: 1
+catalog-type: hadoop
+warehouse: file:///C:/Users/RAKSHA%20PRASAD/flink/warehouse
