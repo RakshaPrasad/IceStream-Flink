@@ -40,9 +40,9 @@ Fixed Kafka `advertised.listeners=kafka:9092` for internal Docker networking.
 ## 📁 Repo Structure
 IceStream-Flink/
 ├── conf/
-│ └── demo-catalog.yaml # Iceberg catalog config
+│   └── demo-catalog.yaml # Iceberg catalog config
 ├── docker-compose.yml # Flink + Kafka setup
-├── kafka-compose.yml # Kafka standalone setup 
+├── kafka-compose.yml # Kafka standalone setup
 ├── iceberg.sql # Sample Iceberg DDL/DML
 └── README.md
 
