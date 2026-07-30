@@ -19,7 +19,7 @@ Jars folder with Iceberg and Kafka connectors
 - Apache Kafka + Zookeeper 
 - MinIO S3
 - Docker Compose
-- - **Apache Flink**: 1.19.1
+-  **Apache Flink**: 1.19.1
 - **Apache Iceberg**: 1.7.1 
 - **Catalog**: Hadoop Catalog with local warehouse
 - **Java**: 17+
